@@ -1,0 +1,4 @@
+Nombre: Orlando Eliezer Lomas Reyes
+Fecha: 10 de marzo de 2026
+Objetivo: Practicar el flujo completo de Git y GitHub (Clone, Branch, Commit, PR).
+Definición de Pull Request: Es una propuesta para integrar cambios desde una rama de trabajo hacia la rama principal
